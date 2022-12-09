@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  background: radial-gradient(26.58% 26.58% at 56.06% 2.41%, #131F36 0%, #161621 100%);
+}

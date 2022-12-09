@@ -1,0 +1,45 @@
+.recentUpdates-container {
+  margin-left: 60px;
+}
+.recentUpdates-text {
+  color: white;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 30px;
+}
+.ufc-image-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.ufc-text {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  margin-left: 100px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.sport-text {
+  position: absolute;
+  top: 50px;
+  left: 16px;
+  margin-left: 100px;
+  font-size: 20px;
+}
+.no-of-events {
+  position: absolute;
+  top: 80px;
+  left: 16px;
+  margin-left: 100px;
+  font-size: 25px;
+}
+.container-fourth {
+  margin-top: 13px;
+}
+.container-second {
+  margin-top: 13px;
+}
+.container-third {
+  margin-top: 13px;
+}

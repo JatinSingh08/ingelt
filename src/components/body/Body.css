@@ -1,0 +1,7 @@
+.body {
+  margin-top: -40px;
+  margin-left: -50px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}

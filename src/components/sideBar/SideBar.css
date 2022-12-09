@@ -1,0 +1,200 @@
+.sidebar-container {
+  color: white;
+  margin-top: 0px;
+  /* position: -webkit-sticky; */
+  position: fixed;
+  width: 250px;
+  height: 100%;
+  top: 20px;
+  left: 0;
+  /* z-index: 1; */
+  overflow-x: hidden;
+  padding-top: 20px;
+
+  background: #161620;
+  border-right: 3px solid #20202D;
+}
+.logo {
+  /* position: absolute; */
+  width: 100px;
+  height: 10px;
+  margin-top: 30px;
+
+  font-family: 'Lexend Mega';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 44px;
+  /* identical to box height */
+  margin-left: 40px;
+  margin-right: 80px;
+
+  color: #FFFFFF;
+}
+
+.navlinks-heading-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 24px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 66px;
+
+  /* position: absolute; */
+  width: 50px;
+  height: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 28px;
+  /* identical to box height */
+
+
+  color: #FFFFFF;
+
+}
+.leftarrow {
+  margin-left: 80px;
+  width: 30px;
+  height: 30px;
+}
+
+.home-text-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 24px;
+  align-items: center;
+  margin-top: 30px;
+}
+.home-text {
+  margin-left: 43px;
+  /* position: absolute; */
+  width: 60px;
+  height: 20px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #FFFFFF;
+}
+
+.articles-text-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 24px;
+  align-items: center;
+  margin-top: 10px;
+}
+.articles-text {
+  margin-left: 37px;
+  /* position: absolute; */
+  width: 60px;
+  height: 15px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #9A9A9A;
+
+}
+
+.games-heading {
+  margin-left: 24px;
+  margin-top: 30px;
+
+}
+.games-text {
+   /* position: absolute; */
+   width: 79px;
+   height: 28px;
+ 
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 23px;
+   line-height: 28px;
+   /* identical to box height */
+ 
+ 
+   color: #FFFFFF;
+}
+
+.cricket-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 24px;
+  margin-top: 20px;
+}
+.cricket-text {
+  margin-left: 33px;
+  width: 50px;
+  height: 15px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+
+  color: #9A9A9A;
+}
+
+.tennis-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 28px;
+  margin-top: 20px;
+}
+.tennis-text {
+  margin-left: 31px;
+  width: 60px;
+  height: 15px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+
+  color: #9A9A9A;
+}
+
+.football-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+.football-text {
+  margin-left: 31px;
+  width: 80px;
+  height: 25px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+
+  color: #929295;
+}
+
+.homeIcon {
+  width: 35px;
+height: 35px;
+}
+.articlesIcon {
+  width: 35px;
+height: 35px;
+}
